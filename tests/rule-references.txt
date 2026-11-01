@@ -4113,3 +4113,13 @@ https://twitter.com/th3_protoCOL/status/1480621526764322817
 https://www.splunk.com/en_us/blog/security/inno-setup-malware-redline-stealer-campaign.html
 https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/schtasks-create
 https://gtfobins.github.io/gtfobins/nawk/#shell
+https://www.welivesecurity.com/2020/03/05/guildma-devil-drives-electric/
+https://learn.microsoft.com/en-us/defender-endpoint/troubleshoot-microsoft-defender-antivirus?view=o365-worldwide
+https://learn.microsoft.com/en-us/entra/id-governance/privileged-identity-management/pim-how-to-configure-security-alerts#roles-are-being-activated-too-frequently
+https://www.synacktiv.com/publications/ntlm-reflection-is-dead-long-live-ntlm-reflection-an-in-depth-analysis-of-cve-2025
+https://www.hexacorn.com/blog/2024/01/01/1-little-known-secret-of-hdwwiz-exe/
+https://github.com/redcanaryco/atomic-red-team/blob/75fa21076dcefa348a7521403cdd6bfc4e88623c/atomics/T1124/T1124.md
+https://github.com/CheraghiMilad/bypass-Neo23x0-auditd-config/blob/f1c478a37911a5447d5ffcd580f22b167bf3df14/sysinfo-syscall/README.md
+https://gtfobins.github.io/gtfobins/capsh/#shell
+https://docs.github.com/en/enterprise-cloud@latest/admin/monitoring-activity-in-your-enterprise/reviewing-audit-logs-for-your-enterprise/audit-log-events-for-your-enterprise#ssh_certificate_authority
+https://www.hexacorn.com/blog/2018/04/23/beyond-good-ol-run-key-part-77/
